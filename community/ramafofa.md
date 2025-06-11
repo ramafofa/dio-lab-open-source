@@ -35,7 +35,7 @@ Sou mãe, estudante de programação (recentemente aprovada em Computação na U
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramafofa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramaianne-laurindo-a09861335/)
 
 ---
 
